@@ -1,0 +1,6 @@
+C:\Visual Stydio\Projects\Test\Test\bin\Debug\Test.exe.config
+C:\Visual Stydio\Projects\Test\Test\bin\Debug\Test.exe
+C:\Visual Stydio\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Visual Stydio\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Visual Stydio\Projects\Test\Test\obj\Debug\Test.exe
+C:\Visual Stydio\Projects\Test\Test\obj\Debug\Test.pdb
